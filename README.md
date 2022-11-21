@@ -74,6 +74,9 @@
 	<a href="https://ionicframework.com" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/ionic.svg" alt="ionic" width="40" height="40"/>
 	</a>
+	<a href="https://reactjs.org" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/react.svg" alt="reactjs" width="40" height="40"/>
+	</a>
 	<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/nuxt.svg" alt="nuxtjs" width="40" height="40"/>
 	</a>
