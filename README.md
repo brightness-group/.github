@@ -61,6 +61,9 @@
 	<a href="https://statamic.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/statamic.svg" alt="statamic" width="40" height="40"/>
 	</a>
+	<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/livewire.svg" alt="livewire" width="40" height="40"/>
+	</a>
 </p>
 
 <h3 align="left">JS Frameworks:</h3>
@@ -79,6 +82,9 @@
 	</a>
 	<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/nuxt.svg" alt="nuxtjs" width="40" height="40"/>
+	</a>
+	<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/alpinejs.svg" alt="alpinejs" width="40" height="40"/>
 	</a>
 </p>
 
