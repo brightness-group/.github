@@ -46,6 +46,21 @@
 	<a href="https://laravel.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/laravel.svg" alt="laravel" width="40" height="40"/>
 	</a>
+	<a href="https://shopify.com/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/shopify.svg" alt="shopify" width="40" height="40"/>
+	</a>
+	<a href="https://magento.com/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/magento.svg" alt="magento" width="40" height="40"/>
+	</a>
+	<a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/wordpress.svg" alt="wordpress" width="40" height="40"/>
+	</a>
+	<a href="https://woocommerce.com/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/woocommerce.svg" alt="woocommerce" width="40" height="40"/>
+	</a>
+	<a href="https://statamic.com/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/statamic.svg" alt="statamic" width="40" height="40"/>
+	</a>
 </p>
 
 <h3 align="left">JS Frameworks:</h3>
@@ -119,10 +134,13 @@
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/git.svg" alt="git" width="40" height="40"/>
 	</a>
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/linux.svg" alt="linux" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/linux2.svg" alt="linux" width="40" height="40"/>
 	</a>
 	<a href="https://postman.com" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/postman.svg" alt="postman" width="40" height="40"/>
+	</a>
+	<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/vitejs.svg" alt="vitejs" width="40" height="40"/>
 	</a>
 	<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/webpack.svg" alt="webpack" width="40" height="40"/>
