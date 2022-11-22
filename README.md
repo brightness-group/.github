@@ -103,6 +103,9 @@
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/mysql.svg" alt="mysql" width="40" height="40"/>
 	</a>
+	<a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/mariadb.svg" alt="mariadb" width="40" height="40"/>
+	</a>
 	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/postgresql.svg" alt="postgresql" width="40" height="40"/>
 	</a>
