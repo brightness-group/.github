@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, We're Brightness Group BV</h1>
 
+<p align="center">
+	<img align="center" src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/brightness.svg" alt="brightness" height="150"/>
+</p>
+
 - 👨‍💻 All of our projects are available at [portfolio](https://brightness-group.com/en/portfolio)
 
 - 💬 Ask us about **Laravel, Magento, Shopify, WordPress**
