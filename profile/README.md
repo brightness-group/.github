@@ -158,3 +158,7 @@
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/webpack.svg" alt="webpack" width="40" height="40"/>
 	</a>
 </p>
+
+<p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haritbrightness&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical&hide=shell,vcl" alt="haritbrightness" />
+</p>
