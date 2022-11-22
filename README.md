@@ -39,9 +39,12 @@
 	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/sass.svg" alt="sass" width="40" height="40"/>
 	</a>
+	<a href="https://lesscss.org" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/less.svg" alt="less" width="40" height="40"/>
+	</a>
 </p>
 
-<h3 align="left">PHP Frameworks:</h3>
+<h3 align="left">PHP Frameworks & Libraries:</h3>
 <p>
 	<a href="https://laravel.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/laravel.svg" alt="laravel" width="40" height="40"/>
@@ -66,7 +69,7 @@
 	</a>
 </p>
 
-<h3 align="left">JS Frameworks:</h3>
+<h3 align="left">JS Frameworks & Libraries:</h3>
 <p>
 	<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/vuejs.svg" alt="vuejs" width="40" height="40"/>
@@ -77,6 +80,9 @@
 	<a href="https://ionicframework.com" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/ionic.svg" alt="ionic" width="40" height="40"/>
 	</a>
+	<a href="https://adonisjs.com/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/adonisjs.svg" alt="adonisjs" width="40" height="40"/>
+	</a>
 	<a href="https://reactjs.org" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/react.svg" alt="reactjs" width="40" height="40"/>
 	</a>
@@ -85,6 +91,12 @@
 	</a>
 	<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/alpinejs.svg" alt="alpinejs" width="40" height="40"/>
+	</a>
+	<a href="https://jquery.com/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/jquery.svg" alt="jquery" width="40" height="40"/>
+	</a>
+	<a href="https://socket.io/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/socketio.svg" alt="socket.io" width="40" height="40"/>
 	</a>
 </p>
 
@@ -137,7 +149,7 @@
 	</a>
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Toolkits:</h3>
 <p>
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/docker.svg" alt="docker" width="40" height="40"/>
@@ -151,11 +163,17 @@
 	<a href="https://postman.com" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/postman.svg" alt="postman" width="40" height="40"/>
 	</a>
+	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/npm.svg" alt="npm" width="40" height="40"/>
+	</a>
 	<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/vitejs.svg" alt="vitejs" width="40" height="40"/>
 	</a>
 	<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/webpack.svg" alt="webpack" width="40" height="40"/>
+	</a>
+	<a href="https://gulpjs.com/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/brightness-group/.github/main/icons/gulp.svg" alt="gulp" width="40" height="40"/>
 	</a>
 </p>
 
